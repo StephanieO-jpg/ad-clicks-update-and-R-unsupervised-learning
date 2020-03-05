@@ -1,3 +1,11 @@
+# Unsupervised Learning with R ( K-Means clustering vs Hierarchical clustering highlighting the strengths and limitations of each approach in the context of my analysis)
+
+| Consumer              | Behaviour            | Analysis            |
+:-------------------------:|:-------------------------:|:--------------------------:|:-----------------------------:
+|![images-12](https://user-images.githubusercontent.com/56550310/76010030-438c8c80-5f23-11ea-997c-52b1576ace95.jpeg)|![371321-637159311705611151-16x9](https://user-images.githubusercontent.com/56550310/76010079-5901b680-5f23-11ea-8fa6-f2c127a278ff.jpg)| ![Consumer-Behavior](https://user-images.githubusercontent.com/56550310/76010117-6ae35980-5f23-11ea-822a-f212b979bdd1.jpg) |
+
+
+
 # Question 
  
  Kira Plastinina (https://kiraplastinina.ru) is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. 
@@ -15,7 +23,7 @@ You can access the dataset from here https://ia803106.us.archive.org/1/items/onl
 # Environment and tools
  1. R studio
  2. R programming language
- > tidyverse
- > magritrr
- > ggcorrplot
- > ggExtra
+  * tidyverse
+  * magritrr
+  * ggcorrplot
+  * ggExtra

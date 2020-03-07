@@ -2,7 +2,7 @@
 
 | Consumer              | Behaviour            | Analysis            |
 :-------------------------:|:--------------------------:|:-----------------------------:
-|![371321-637159311705611151-16x9](https://user-images.githubusercontent.com/56550310/76010079-5901b680-5f23-11ea-8fa6-f2c127a278ff.jpg) | ![images-12](https://user-images.githubusercontent.com/56550310/76010030-438c8c80-5f23-11ea-997c-52b1576ace95.jpeg)|![Consumer-Behavior](https://user-images.githubusercontent.com/56550310/76010117-6ae35980-5f23-11ea-822a-f212b979bdd1.jpg) |
+|![371321-637159311705611151-16x9](https://user-images.githubusercontent.com/56550310/76010079-5901b680-5f23-11ea-8fa6-f2c127a278ff.jpg) |![CONSUMER-BEHAVIOUR](https://user-images.githubusercontent.com/56550310/76138301-628c3b00-6057-11ea-8159-70ac36b5463d.png)|![Consumer-Behavior](https://user-images.githubusercontent.com/56550310/76010117-6ae35980-5f23-11ea-822a-f212b979bdd1.jpg) |
 
 
 
